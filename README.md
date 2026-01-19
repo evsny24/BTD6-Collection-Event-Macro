@@ -33,7 +33,9 @@ Probably needed (not tested):
 - Opens boxes when enough resources are collected, and keeps track of each rarity insta you obtain in a GUI
 - Shows the current action being performed in the top right GUI
 
-# Some maps use cash drops to improve reliability. Even though you earn the money back, you may configure some maps on easy difficulty instead.
+# NOTICE
+
+Some maps use cash drops to improve reliability. Even though you earn the money back, you may configure some maps on easy difficulty instead.
 
 Maps that use cash drops on impoppable
 - bloody puddles
