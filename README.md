@@ -1,7 +1,7 @@
 # BTD6-Collection-Event-Macro
 This is an autohotkey macro program that will farm the collection events automatically. This is not a finished product.
 
-#REQUIREMENTS TO RUN:
+# REQUIREMENTS TO RUN:
 - 2560x1440 Resolution
 - Fast Track Mode enabled
 - default key binds
