@@ -1,0 +1,16 @@
+====Maps=that=use=cash=drops=on=impoppable=====================
+- bloody puddles
+- dark dungeons
+- glacial trail
+- tricky tracks
+- workshop
+====No=cash=drop=maps==========================================
+- dark castle
+- flooded valley
+- infernal
+- muddy puddles
+- ouch
+- quad
+- ravine
+- sanctuary
+- all easy maps
