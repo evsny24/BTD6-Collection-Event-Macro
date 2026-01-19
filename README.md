@@ -12,3 +12,8 @@ PROBABLY NEEDED (not tested):
 - full monkey knowledge
 - map visual effects off
 - default cursor size
+
+INSTRUCTIONS
+- Load game and navigate to menu screen
+- Run Start_Script.ahk
+- When you want to stop, spam = a couple times
