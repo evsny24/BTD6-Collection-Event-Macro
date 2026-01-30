@@ -18,7 +18,7 @@ Probably needed (not tested):
 # INSTRUCTIONS
 - Load game and navigate to menu screen (where you can click play, choose hero, see achievements, etc.)
 - Run Start_Script.ahk
-- When you want to stop, spam = a couple times
+- When you want to stop, press = a few times
 
 # USE AT YOUR OWN RISK
 - Although it is not likely you will get flagged as cheating, it is not impossible
