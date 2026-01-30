@@ -16,7 +16,7 @@ Probably needed (not tested):
 - default cursor size
 
 # INSTRUCTIONS
-- Load game and navigate to menu screen
+- Load game and navigate to menu screen (where you can click play, choose hero, see achievements, etc.)
 - Run Start_Script.ahk
 - When you want to stop, spam = a couple times
 
