@@ -21,6 +21,7 @@ Probably needed (not tested):
 - When you want to stop, press = a few times
 
 # USE AT YOUR OWN RISK
+- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 - Although it is not likely you will get flagged as cheating, it is not impossible
 - I am not responsible for any actions taken by NinjaKiwi on anyone's accounts
 - Use cautiously, and only in singleplayer for best practice
@@ -57,4 +58,10 @@ No cash drop maps
 
 # COPYRIGHT
 
-- Do not commercially distribute this product
+- Copyright © 2026 Evan S.
+
+All rights reserved.
+
+- This project is provided for personal and educational use only.  
+- You may not copy, modify, distribute, sublicense, or use this project or any part of it for commercial purposes without explicit written permission from the author.
+
