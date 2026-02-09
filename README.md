@@ -58,10 +58,10 @@ No cash drop maps
 
 # COPYRIGHT
 
-- Copyright © 2026 Evan S.
+Copyright © 2026 Evan S.
 
 All rights reserved.
 
-- This project is provided for personal and educational use only.  
-- You may not copy, modify, distribute, sublicense, or use this project or any part of it for commercial purposes without explicit written permission from the author.
+This project is provided for personal and educational use only.  
+You may not copy, modify, distribute, sublicense, or use this project or any part of it for commercial purposes without explicit written permission from the author.
 
