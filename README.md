@@ -54,3 +54,7 @@ No cash drop maps
 - ravine
 - sanctuary
 - every map played on easy difficulty
+
+# COPYRIGHT
+
+- Do not commercially distribute this product
