@@ -92,13 +92,13 @@ else
 
 ;-------------------defining-mode-for-each-map-----------------
 
-imagesearch, a, b, x-500, y-300, x, y+300, *50 .\assets\infernalthumb.png	;search for what map the event is on and choose difficulty
+imagesearch, a, b, x-500, y-300, x, y+300, *50 .\assets\infernalthumb.png	;CHANGE DIFFICULTY SETTINGS PER MAP HERE
 	if (ErrorLevel = 0)
 		{
 		nomapfound := False
 		click, %a% %b%
-		impoppable()
-		Run .\mapscripts\infernalimp.ahk
+		impoppable()														;Switch between easy() and impoppable() and adjust subsequent line correspondinly
+		Run .\mapscripts\infernalimp.ahk									;Switch script name between mapnameeasy.ahk and mapnameimp.ahk
 		}
 
 imagesearch, a, b, x-500, y-300, x, y+300, *50 .\assets\darkdungeonsthumb.png
@@ -235,3 +235,4 @@ loop
 }
 
 =::ExitApp
+
