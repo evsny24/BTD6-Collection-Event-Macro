@@ -229,8 +229,9 @@ loop
 {
 	sleep 500
 	resetfailsafe()
-	activatedruidabilityclosed()
-	activatedruidabilityopened()
+	;activatedruidabilityclosed() THEY MADE THE ABILITY A PASSIVE
+	;activatedruidabilityopened() THEY MADE THE ABILITY A PASSIVE
 	levelup()
 }
+
 =::ExitApp
