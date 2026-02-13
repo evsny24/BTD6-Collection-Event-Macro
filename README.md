@@ -7,7 +7,7 @@ Required:
 - 2560x1440 Resolution
     - Some placements are pixel perfect, but don't worry; if your monitor is a lower resolution, you can emulate it. See below.
 - Fast Track Mode enabled
-    - It simply makes the process so much faster
+    - It simply makes the process so much faster, but I am working to make this optional for better accesibility
 - default key binds
     - In settings, reset to default
 - Benjamin unlocked
