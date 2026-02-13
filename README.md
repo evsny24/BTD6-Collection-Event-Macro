@@ -5,7 +5,7 @@ This is an autohotkey macro program that will farm the collection events automat
 
 Required:
 - 2560x1440 Resolution
-    - Some placements are pixel perfect, but don't worry, if your monitor is a lower resolution, you can emulate it. See below
+    - Some placements are pixel perfect, but don't worry; if your monitor is a lower resolution, you can emulate it. See below.
 - Fast Track Mode enabled
     - It simply makes the process so much faster
 - default key binds
