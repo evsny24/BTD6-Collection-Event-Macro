@@ -31,12 +31,12 @@ Recommended:
 - USE AT YOUR OWN RISK
 
 # CAPABILITIES
-- Can play every expert map on either impoppable or easy, see below on how to change difficulty (by default every map set to impoppable)
+- Can play every expert map on either impoppable or easy, see below on how to change difficulty
+        - (Advanced) Per-map difficulty selection by going into the mainscripts folder and editing collection_event_farm.ahk starting at line 95, instructions in the file 
 - Smart detection helps the loop to continue if you level up, fail, or get an advertisement (yes, there are ads for the DLC if you do not own them) 
 - Will automatically select the event map for maximum rewards, but still works without an ongoing event
 - Opens boxes when enough resources are collected, and keeps track of each rarity insta you obtain in a GUI
 - Shows the current action being performed in the top right GUI
-- (Advanced) Per-map difficulty selection by going into the mainscripts folder and editing collection_event_farm.ahk starting at line 95, instructions in the file
 
 # NOTICE
 
