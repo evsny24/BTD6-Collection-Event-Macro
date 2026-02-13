@@ -28,7 +28,7 @@ Probably needed (not tested):
 - USE AT YOUR OWN RISK
 
 # CAPABILITIES
-- Can play every expert map on either impoppable or easy, see below on how to change difficulty
+- Can play every expert map on either impoppable or easy, see below on how to change difficulty (by default every map set to impoppable)
 - Smart detection helps the loop to continue if you level up, fail, or get an advertisement (yes, there are ads for the DLC if you do not own them) 
 - Will automatically select the event map for maximum rewards, but still works without an ongoing event
 - Opens boxes when enough resources are collected, and keeps track of each rarity insta you obtain in a GUI
