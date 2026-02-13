@@ -4,7 +4,7 @@ REQUIREMENTS TO RUN:
 	- default key binds
 	- Benjamin unlocked
 	- at least one expert map unlocked
-PROBABLY NEEDED (not tested):
+RECOMMENDED:
 	- full monkey knowledge
 	- map visual effects off
 	- default cursor size
