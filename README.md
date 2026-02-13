@@ -3,17 +3,20 @@ This is an autohotkey macro program that will farm the collection events automat
 
 # REQUIREMENTS TO RUN:
 
-Definitely needed:
+Required:
 - 2560x1440 Resolution
+    - Some placements are pixel perfect, but don't worry, if your monitor is a lower resolution, you can emulate it. See below
 - Fast Track Mode enabled
+    - It simply makes the process so much faster
 - default key binds
+    - In settings, reset to default
 - Benjamin unlocked
 - at least one expert map unlocked
   
-Probably needed (not tested):
-- full monkey knowledge
-- map visual effects off
-- default cursor size
+Recommended:
+- full monkey knowledge for impoppable mode especially
+- map visual effects off for consistency
+- default cursor size also for consistency
 
 # INSTRUCTIONS
 - Load game and navigate to menu screen (where you can click play, choose hero, see achievements, etc.)
@@ -56,6 +59,21 @@ No cash drop maps
 - ravine
 - sanctuary
 - every map played on easy difficulty
+
+# EMULATING 2560x1440 RESOLUTION
+
+If your monitor is lower resolution than the script’s hardcoded resolution (2560×1440), you can create a **custom/high resolution** using your GPU software. Below are instructions for NVIDIA, AMD, and Intel GPUs.
+
+| Step | NVIDIA (GeForce) | AMD (Radeon / Adrenalin) | Intel (Integrated / UHD) |
+|------|-----------------|--------------------------|--------------------------|
+| **1. Open GPU Control Panel** | Right-click desktop → **NVIDIA Control Panel** | Right-click desktop → **AMD Software / Adrenalin** → **Settings (gear)** | Right-click desktop → **Intel Graphics Command Center** |
+| **2. Go to Custom Resolution Section** | **Display → Change resolution → Customize… → Create Custom Resolution…** | **Display → Custom Resolutions → Create New** | **Display → Custom Resolutions → Add** |
+| **3. Set Resolution & Refresh Rate** | Horizontal: 2560, Vertical: 1440, Refresh: 60Hz, Timing: Automatic / CVT-RB | Horizontal: 2560, Vertical: 1440, Refresh: 60Hz, Timing: Automatic / CVT-RB | Horizontal: 2560, Vertical: 1440, Refresh: 60Hz, Timing: Automatic |
+| **4. Test Resolution** | Click **Test** → Confirm if screen works | Click **Save / Test** → Confirm if screen works | Click **Apply / Test** → Confirm if screen works |
+| **5. Apply & Set as Primary (Optional)** | Back in **Change resolution**, select new resolution → **Apply** | Back in **Display**, select new resolution → **Apply** | Back in **Display**, select new resolution → **Apply** |
+| **6. Set Windows Scaling** | Settings → System → Display → Scale = 100% | Settings → System → Display → Scale = 100% | Settings → System → Display → Scale = 100% |
+| **7. Run BTD6** | Launch BTD6 on the new resolution (use **Windowed Fullscreen** if needed) | Launch BTD6 on the new resolution (use **Windowed Fullscreen** if needed) | Launch BTD6 on the new resolution (use **Windowed Fullscreen** if needed) |
+| **Notes / Caveats** | If monitor is physically lower than resolution, image is downscaled; pixel-perfect placement still works | Same as NVIDIA; visuals may be slightly softer | Same as NVIDIA; visuals may be slightly softer |
 
 # COPYRIGHT
 
