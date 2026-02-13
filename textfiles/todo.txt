@@ -1,6 +1,0 @@
-Todo:
-
-- Better error detection (it doesnt work when in the waitingforend() loop)
-- Make the non collection event loop more interesting
-- make druid ability not interrupt things (detect which spot it's in [2 or 3] and press number)
-- change difficulty settings in other document
