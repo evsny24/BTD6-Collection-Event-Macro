@@ -1,4 +1,4 @@
-﻿#SingleInstance Force
+#SingleInstance Force
 #Include %A_ScriptDir%\..\mainscripts\default.ahk
 SetWorkingDir %A_ScriptDir%
 SetWorkingDir ..\
@@ -372,6 +372,7 @@ waitforupgrade2()
 deselect()
 
 canaffordtower("v")
+ace()
 ace()
 waitforupgrade3()
 waitforupgrade3()
