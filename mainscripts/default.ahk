@@ -4,7 +4,7 @@ DetectHiddenWindows, On
 
 ;==========================Status=Updates=========================================================================
 
-UpdateStatus(step)								;don't ask what any of this means
+UpdateStatus(step)
 {
 	DetectHiddenWindows, On
     	WinGet, target_hwnd, ID, ScriptStatus  ; Your GUI window title
@@ -495,4 +495,5 @@ openboxes()
 				continue
 			}
 		}
+
 }
