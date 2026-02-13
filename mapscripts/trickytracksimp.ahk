@@ -16,10 +16,6 @@ desperado1() {
 	MouseClick, Left, 850, 728
 	sleep 200
 }
-clickdesperado1() {
-	MouseClick, Left, 850, 728
-	sleep 200
-}
 desperado2() {
 	MouseClick, Left, 2445, 828
 	sleep 200
@@ -397,5 +393,6 @@ waitforupgrade3()
 deselect()
 
 backtomainmenu()
+
 
 =::ExitApp
