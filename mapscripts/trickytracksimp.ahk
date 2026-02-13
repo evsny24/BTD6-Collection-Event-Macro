@@ -16,6 +16,10 @@ desperado1() {
 	MouseClick, Left, 850, 728
 	sleep 200
 }
+clickdesperado1() {
+	MouseClick, Left, 850, 728
+	sleep 200
+}
 desperado2() {
 	MouseClick, Left, 2445, 828
 	sleep 200
@@ -114,10 +118,10 @@ sfactory() {
 	MouseClick, Left, 1023, 967
 	sleep 200
 }
-ace() {
-	MouseClick, Left, 881, 1058
-	sleep 200
-}
+;ace() {
+;	MouseClick, Left, 881, 1058
+;	sleep 200
+;}
 
 ;-------------START-------------
 
@@ -388,15 +392,7 @@ waitforupgrade1()
 waitforupgrade2()
 deselect()
 
-sniper2()
-waitforupgrade2()
-waitforupgrade3()
-waitforupgrade3()
-waitforupgrade3()
-deselect()
-
 backtomainmenu()
 
 
 =::ExitApp
-
