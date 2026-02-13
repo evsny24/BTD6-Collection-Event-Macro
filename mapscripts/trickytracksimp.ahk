@@ -7,13 +7,17 @@ CoordMode, Pixel, Screen
 ben() {
 	MouseClick, Left, 2281, 285
 	sleep 200
-	MouseClick, Left, 1760, 1009
+	MouseClick, Left, 2135, 581
 	sleep 200
 }
 desperado1() {
 	MouseClick, Left, 2445, 828
 	sleep 200
-	MouseClick, Left, 850, 730
+	MouseClick, Left, 850, 728
+	sleep 200
+}
+clickdesperado1() {
+	MouseClick, Left, 850, 728
 	sleep 200
 }
 desperado2() {
@@ -23,7 +27,7 @@ desperado2() {
 	sleep 200
 }
 dart1() {
-	MouseClick, Left, 939, 700
+	MouseClick, Left, 926, 680
 	sleep 200
 }
 dart2() {
@@ -31,19 +35,19 @@ dart2() {
 	sleep 200
 }
 wizard1() {
-	MouseClick, Left, 1241, 726
+	MouseClick, Left, 1242, 756
 	sleep 200
 }
 wizard2() {
-	MouseClick, Left, 1011, 648
+	MouseClick, Left, 1012, 620
 	sleep 200
 }
 druid1() {
-	MouseClick, Left, 1332, 684
+	MouseClick, Left, 1325, 704
 	sleep 200
 }
 druid2() {
-	MouseClick, Left, 1243, 813
+	MouseClick, Left, 1248, 845
 	sleep 200
 }
 sniper1() {
@@ -55,11 +59,11 @@ sniper2() {
 	sleep 200
 }
 village1() {
-	MouseClick, Left, 1553, 1128
+	MouseClick, Left, 1549, 1061
 	sleep 200
 }
 village2() {
-	MouseClick, Left, 1130, 868
+	MouseClick, Left, 1132, 896
 	sleep 200
 }
 farm1() {
@@ -67,59 +71,55 @@ farm1() {
 	sleep 200
 }
 farm2() {
-	MouseClick, Left, 1848, 1285
+	MouseClick, Left, 1853, 1308
 	sleep 200
 }
 mermonkey1() {
-	MouseClick, Left, 734, 415
+	MouseClick, Left, 736, 380
 	sleep 200
 }
 mermonkey2() {
-	MouseClick, Left, 868, 542
+	MouseClick, Left, 869, 584
 	sleep 200
 }
 mermonkey3() {
-	MouseClick, Left, 1469, 990
+	MouseClick, Left, 1597, 945
 	sleep 200
 }
 mermonkey4() {
-	MouseClick, Left, 1380, 1054
+	MouseClick, Left, 1413, 1071
 	sleep 200
 }
 mermonkey5() {
-	MouseClick, Left, 1561, 930
+	MouseClick, Left, 1292, 1150
 	sleep 200
 }
-mermonkey6place() {
-	MouseClick, Left, 1653, 867
-	sleep 200
-}
-mermonkey6click() {
-	MouseClick, Left, 1610, 878
+mermonkey6() {
+	MouseClick, Left, 1405, 1172
 	sleep 200
 }
 mermonkey7() {
-	MouseClick, Left, 1289, 1116
+	MouseClick, Left, 1758, 1002
 	sleep 200
 }
 mermonkey8() {
-	MouseClick, Left, 1218, 1194
+	MouseClick, Left, 1847, 939
 	sleep 200
 }
 mermonkey9() {
-	MouseClick, Left, 1632, 1008
+	MouseClick, Left, 1286, 1251
 	sleep 200
 }
 mermonkey10() {
-	MouseClick, Left, 1405, 1154
+	MouseClick, Left, 1173, 1233
 	sleep 200
 }
 sfactory() {
-	MouseClick, Left, 1034, 954
+	MouseClick, Left, 1023, 967
 	sleep 200
 }
 ace() {
-	MouseClick, Left, 903, 1055
+	MouseClick, Left, 881, 1058
 	sleep 200
 }
 
@@ -259,8 +259,8 @@ waitforupgrade1()
 deselect()
 
 canaffordtower("o")
-mermonkey6place()
-mermonkey6click()
+mermonkey6()
+mermonkey6()
 waitforupgrade3()
 waitforupgrade3()
 waitforupgrade2()
@@ -375,16 +375,25 @@ village2()
 waitforupgrade2()
 deselect()
 
-desperado1()
-desperado1()
+canaffordtower("v")
+ace()
+waitforupgrade3()
+waitforupgrade3()
 waitforupgrade1()
 waitforupgrade1()
+waitforupgrade1()
+waitforupgrade1()
+waitforupgrade1()
+deselect()
+
+dart2()
 waitforupgrade2()
 waitforupgrade2()
-waitforupgrade2()
-waitforupgrade2()
-waitforupgrade2()
-targetsmart()
+waitforupgrade3()
+waitforupgrade3()
+waitforupgrade3()
+waitforupgrade3()
+waitforupgrade3()
 deselect()
 
 backtomainmenu()
